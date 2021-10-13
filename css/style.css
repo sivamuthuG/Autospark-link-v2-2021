@@ -204,10 +204,9 @@ body {
 }
 
 .dashboardIcon {
-    color: #b4b4b4;
-    font-size: 25px;
-    margin: 18px;
-    margin-top: 10px;
+    width: 34px;
+    margin-top: 8px;
+    margin-left: 15px;
 }
 
 .dashBoard {
@@ -230,10 +229,9 @@ body {
 }
 
 .reportIcon {
-    color: #b4b4b4;
-    font-size: 25px;
-    margin: 12px;
-    margin-left: 16px;
+    width: 30px;
+    margin-top: 7px;
+    margin-left: 15px;
 }
 
 .perform {
